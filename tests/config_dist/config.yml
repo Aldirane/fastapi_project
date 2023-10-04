@@ -1,0 +1,13 @@
+db:
+  type: postgresql
+  connector: asyncpg
+  host: localhost
+  port: 5432
+  login: aldar
+  password: password
+  name: test_fastapi_project
+auth:
+  secret-key: aa78323ab8cf0faa1c2fc9bc4ada79786730a3a9666760dbae10c668627fd7de
+  access-token-expire-hours: 168
+file-storage-config:
+  path: ./local-storage/files

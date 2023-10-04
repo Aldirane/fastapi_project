@@ -1,0 +1,11 @@
+name,site,total_visits,bounce_rate,pages_per_visit,avg_visit_duration,age_18_24,age_25_34,age_35-44,age_45_54,age_55_64,age_65_plus
+Adidas,https://www.adidas.com,31.5M,49.84,4.85,00:03:01,17.63,33.48,20.84,15.21,8.42,4.42
+ASICS,https://www.asics.com,14M,44.87,5.61,00:03:34,14.8,28.43,20.21,17.96,11.88,6.73
+Columbia,https://www.columbia.com,5.9M,46.15,4.94,00:03:54,8.27,26.59,20.82,19.42,16.07,8.83
+Fila,https://www.fila.com,775K,55.3,4.32,00:01:47,20.19,30.15,19.59,15.31,9.25,5.52
+K-Swiss,https://kswiss.com,267.1K,44.32,4.09,00:02:57,6.77,21.93,23.01,23.83,16.72,7.73
+New Balance,https://www.newbalance.com,10.7M,41.9,4.37,00:03:01,21.02,31.62,18.75,14.49,9.11,5.01
+Nike,https://www.nike.com,150.9M,46.64,4.89,00:03:38,19.94,30.32,21.06,15.08,8.82,4.78
+Puma,https://puma.com,27.4M,44.31,4.94,00:03:11,16.6,29.09,20.9,16.99,10.5,5.92
+Skechers,https://www.skechers.com,15.3M,46.92,4.81,00:03:12,6.25,16.39,18.45,19.94,22.56,16.41
+Under Armour,https://www.underarmour.com,11.8M,48.44,3.83,00:02:39,11.8,28.2,22.99,19.01,11.63,6.37
